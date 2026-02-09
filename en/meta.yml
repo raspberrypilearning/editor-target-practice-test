@@ -6,6 +6,7 @@ meta_description: Learn Python with the Raspberry Pi Foundation's coding project
 version: 4
 listed: false
 copyedit: false
+landing: true
 last_tested: "2022-05-19"
 steps:
   - title: Step 1
