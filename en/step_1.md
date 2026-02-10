@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Create a background</h2>
+## Create a background
 
 --- task ---
 
@@ -8,10 +8,12 @@ This project contains code to draw the sky as a blue rectangle.
 
 --- /task ---
 
+### Step 1
 The border of a shape is called the **stroke**.
 
 Click the run button, and you should see a blue rectangle with a black border. 
 
+### Step 2
 Add `no_stroke()`{:.language-python} to the `setup`{:.language-python} function to turn the stroke off for all shapes. 
 
 <div class="c-project-code">
@@ -31,6 +33,7 @@ def setup():
 
 </div>
 
+### Step 3
 **Test:** Click the **Run** button again. Did you notice that the border (stroke) has now disappeared?
 
 ![image of a blue rectangle](images/sky.png)
