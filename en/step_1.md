@@ -1,12 +1,8 @@
 ## Create a background
 
---- task ---
-
 This project contains code to draw the sky as a blue rectangle.
 
 ➡️ Remove the black border from the background.
-
---- /task ---
 
 ### Step 1
 The border of a shape is called the **stroke**.
@@ -33,7 +29,6 @@ def setup():
 
 </div>
 
-### Step 3
 **Test:** Click the **Run** button again. Did you notice that the border (stroke) has now disappeared?
 
 ![image of a blue rectangle](images/sky.png)
