@@ -33,12 +33,14 @@ def setup():
 
 ![image of a blue rectangle](images/sky.png)
 
-<div class="c-project-callout c-project-callout--tip">
-
 
 <div class="c-project-output">
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-turtle-snowflakes-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
+
+
+<div class="c-project-callout c-project-callout--tip">
+
 
 ### Tip
 
