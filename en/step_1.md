@@ -29,7 +29,9 @@ def setup():
 
 </div>
 
-**Test:** Click the **Run** button again. Did you notice that the border (stroke) has now disappeared?
+### Now run your code
+
+Did you notice that the border (stroke) has now disappeared?
 
 ![image of a blue rectangle](images/sky.png)
 
